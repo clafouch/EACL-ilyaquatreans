@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Under construction]"
+        }
+      ]
+    }
+  ],
+  "title": "Bibliography",
+  "parent": "8fc42723-1fd1-4da0-a62f-cf12d730fc14",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "bibliography",
+  "created_at": "2025-01-14T15:55:25.301Z",
+  "created_by": "clafouch",
+  "updated_at": "2025-01-14T15:55:25.301Z",
+  "updated_by": "clafouch"
+}
