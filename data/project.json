@@ -1,21 +1,81 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "clafouch",
+    "is_private": false,
+    "title": "Patchwork Spaces in Paulin Soumanou Vieyra’s C’était il y a quatre ans",
+    "description": "An AVAnnotate Project by Dr. Vincent Bouchard, Claire Fouchereaux, and Thomas Pigott",
+    "language": "en",
+    "slug": "EACL-ilyaquatreans",
+    "creator": "clafouch",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Scenes",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Dialogues",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Props",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Filmic Element",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Analysis",
+          "color": "#99AFF2"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        },
+        {
+          "tag": "Scenes (Sound)",
+          "category": "Scenes"
+        },
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        },
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        },
+        {
+          "tag": "Props (Image)",
+          "category": "Props"
+        },
+        {
+          "tag": "Info on Props",
+          "category": "Props"
+        },
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        },
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ]
+    },
+    "created_at": "2025-01-14T15:52:13.361Z",
+    "updated_at": "2025-01-14T15:52:13.361Z"
   }
 }
