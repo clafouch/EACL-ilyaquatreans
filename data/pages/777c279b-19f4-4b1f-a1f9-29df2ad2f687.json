@@ -4,14 +4,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "References"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Bouchard, Vincent. "
         },
         {
@@ -168,6 +160,6 @@
   "slug": "bibliography",
   "created_at": "2025-01-14T15:55:25.301Z",
   "created_by": "clafouch",
-  "updated_at": "2025-03-22T17:38:34.235Z",
+  "updated_at": "2025-03-22T17:40:50.209Z",
   "updated_by": "clafouch"
 }
