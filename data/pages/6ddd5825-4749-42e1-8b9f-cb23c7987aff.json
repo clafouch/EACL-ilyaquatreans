@@ -28,7 +28,7 @@
       "align": "center",
       "children": [
         {
-          "text": "An AVAnnotate Project by Dr. Vincent Bouchard, Claire Fouchereaux, and Thomas Pigott (Early African Cinemas Lab at Indiana University)"
+          "text": "An AVAnnotate Project by Dr. Vincent Bouchard, Claire Fouchereaux, and Thomas Pigott (Early African Cinemas Lab at Indiana University Bloomington)"
         }
       ]
     },
@@ -46,10 +46,10 @@
       "children": [
         {
           "italic": true,
-          "text": "     C’était il y a quatre ans"
+          "text": "     C’était il y a quatre ans "
         },
         {
-          "text": " is a 1954 short film by Paulin Soumanou Vieyra. It is his graduation film from the Institut des hautes études cinématographiques (IDHEC) and marks the end of his studies as the first sub-Saharan African admitted to this Paris-based film school. The following annotations and related analysis showcase both the technical and narrative features of this film which differs substantially in budget and in style from other Vieyra films, with a consistent attention to the experiences of African people and their depiction through the cinematic medium. In this case, he tells a short yet powerful story of an African student, Kodjo, and his internal experience living in Europe."
+          "text": "is a 1954 short film by Paulin Soumanou Vieyra. It is his graduation film from the Institut des hautes études cinématographiques (IDHEC) and marks the end of his studies as the first sub-Saharan African admitted to this Paris-based film school. The following annotations and related analysis showcase both the technical and narrative features of this film, which differs substantially in budget and in style from other Vieyra films though retains consistent attention to the experiences of African people and their depiction through the cinematic medium. In this case, he tells a short yet powerful story of an African student, Kodjo, and his internal experience living in Europe."
         }
       ]
     },
@@ -65,14 +65,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     Drawing on the notion of patchwork spaces first outlined by Deleuze and Guattari in the work "
-        },
-        {
-          "text": "Mille Plateaux",
-          "italic": true
-        },
-        {
-          "text": " (1980) and adapted by Vincent Bouchard, the provided annotations and analysis highlight how Vieyra represents the kinds of ambiguous spaces opened by the colonial encounter, in this case, as it pertains to the experiences of African people who inhabit Europe. Despite attempts of total domination on the part of the colonizer and amid the conditions of exploitation and inequality that this entails, these kinds of patchwork spaces risk opening up in moments of on-the-ground cultural contact, as in the case of Kodjo’s studies in Europe. As Bouchard articulates, "
+          "text": "     Drawing on the notion of patchwork spaces first outlined by Deleuze and Guattari in the work Mille Plateaux (1980) and adapted by Vincent Bouchard, the provided annotations and analysis highlight how Vieyra represents the kinds of ambiguous spaces opened by the colonial encounter, in this case, as it pertains to the experiences of African people who inhabit Europe. Despite attempts of total domination on the part of the colonizer and amid the conditions of exploitation and inequality that this entails, these kinds of patchwork spaces risk opening up in moments of on-the-ground cultural contact, as in the case of Kodjo’s studies in Europe. As Bouchard articulates, "
         }
       ]
     },
@@ -120,14 +113,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "     In "
-        },
-        {
-          "text": "C’était il y a quatre ans,",
-          "italic": true
-        },
-        {
-          "text": " Vieyra makes patchwork spaces, opened by Kodjo’s life as a student in Europe, visible in a variety of ways that are highlighted in this project, such through the use of props, blocking, cinematography, and sound, and, in particular, he explores the emotional and internal dimension of intermediary space. Surpassing the world of the film itself, this “negotiation” also extends to the film’s production in both Vieyra’s technical style, demonstrating his mastery of pre-New Wave aesthetics as would logically make sense for a graduation film from a French film school, as well as the limitations of his ability to create an African space on-screen within the budgetary, technical, and legal confines of the day. Ultimately, in this short piece, Vieyra provides a window into the affective and cultural between-two that Kodjo experiences as an African student in Europe, rendering it starkly legible for the non-African audience that would have been its primary target within IDHEC."
+          "text": "     In C’était il y a quatre ans, Vieyra makes patchwork spaces, opened by Kodjo’s life as a student in Europe, visible in a variety of ways that are highlighted in this project, such through the use of props, blocking, cinematography, and sound, and, in particular, he explores the emotional and psychological dimension of intermediary space. Surpassing the world of the film itself, this “negotiation” extends to Vieyra’s technical style in the film, demonstrating his mastery of pre-New Wave aesthetics (qualité française) as would logically make sense for a graduation film from a French film school. Differing strongly from his later films, Vieyra’s use of more classic aesthetics here essentially re-makes them by their adoption to depict the subjectivity of an African individual, who they were never developed to represent (note 1). In addition to this opening of a new kind of ambiguous aesthetic space, the “negotiation” incarnated by the film also encompasses its production itself through the limitations of Vieyra’s ability to create an African space on-screen within the budgetary, technical, and legal confines of the day. Ultimately, in this short piece, Vieyra provides a window into the affective and cultural between-two that Kodjo experiences as an African student in Europe, rendering it starkly legible for the non-African audience that would have been its primary target within IDHEC and mirroring it in the film’s technique and production itself."
         }
       ]
     },
@@ -136,6 +122,46 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "(1) His defiance toward the official school aesthetic (both in technical and political terms) was already known since the movie was censored at the behest of the head of IDHEC (Bowles 24), cutting a close-up on two French newspapers (Le Monde and l’Humanité) in the opening sequence. "
         }
       ]
     }
@@ -149,6 +175,6 @@
   "slug": "introduction",
   "created_at": "2025-01-14T15:54:58.386Z",
   "created_by": "clafouch",
-  "updated_at": "2025-01-14T16:47:18.265Z",
+  "updated_at": "2025-03-22T17:34:52.597Z",
   "updated_by": "clafouch"
 }
