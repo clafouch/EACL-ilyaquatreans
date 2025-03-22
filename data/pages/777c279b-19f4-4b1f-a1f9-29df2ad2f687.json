@@ -1,1 +1,173 @@
-{"content":[{"type":"paragraph","children":[{"text":"[Under construction]"}]}],"title":"Bibliography","parent":"8fc42723-1fd1-4da0-a62f-cf12d730fc14","autogenerate":{"enabled":false,"type":"custom"},"slug":"bibliography","created_at":"2025-01-14T15:55:25.301Z","created_by":"clafouch","updated_at":"2025-01-14T15:55:25.301Z","updated_by":"clafouch"}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "References"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bouchard, Vincent. "
+        },
+        {
+          "text": "Cinema van, Propagande et Résistance En Afrique Coloniale: (1930-1960)",
+          "italic": true
+        },
+        {
+          "text": ". University of Ottawa Press, 2023."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bowles, Brett. \"Paulin Vieyra's Afrique sur Seine (1955): Black Ethno-Fiction and French New Wave Prototype\". "
+        },
+        {
+          "text": "French Politics, Culture & Society",
+          "italic": true
+        },
+        {
+          "text": " 41.3 (2023): 1-28. doi:10.3167/fpcs.2023.410301. 17 Mar. 2025. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "C’était il y a quatre ans",
+          "italic": true
+        },
+        {
+          "text": ". Directed by Paulin Soumanou Vieyra. PSV-Films, 1954."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Deleuze, Gilles, and Félix Guattari. "
+        },
+        {
+          "text": "Mille Plateaux",
+          "italic": true
+        },
+        {
+          "text": ". Paris: Éditions de minuit, 1980. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Hazard, Paul. "
+        },
+        {
+          "text": "La Crise de Conscience Européenne",
+          "italic": true
+        },
+        {
+          "text": ". Boivin & Cie 1935."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "-----. "
+        },
+        {
+          "text": "The European mind [1680-1715]",
+          "italic": true
+        },
+        {
+          "text": ". Translated by J. Lewis May. World Publishing, 1963."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Le corbeau",
+          "italic": true
+        },
+        {
+          "text": ". Directed by Henri-Georges Clouzot. Tobis Film, 1943."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "La Tête d'un homme",
+          "italic": true
+        },
+        {
+          "text": ". Directed by Julien Duvivier. Pathé Consortium Cinéma, 1933."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "New York Review Books. “Paul Hazard.” Nyrb.com. https://www.nyrb.com/collections/paul-hazard"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vanderburgh, Dana. \"African Realities in Motion: The Role of Dance in Vieyra's Films in Constructing Intersubjective African Identities.\" "
+        },
+        {
+          "text": "Black Camera",
+          "italic": true
+        },
+        {
+          "text": ", vol. 13 no. 2, 2022, p. 355-373. Project MUSE, https://dx.doi.org/10.2979/blackcamera.13.2.19."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vieyra, Paulin Soumanou. Continuité Dialoguée du film “C’était il y a quatre ans (Scénario_original). Black Film Center & Archive. Indiana University, Bloomington, IN, USA."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "-----. Scénario original: Titre “C’était il y a quatre ans.” Black Film Center & Archive. Indiana University, Bloomington, IN, USA."
+        }
+      ]
+    }
+  ],
+  "title": "Bibliography",
+  "parent": "8fc42723-1fd1-4da0-a62f-cf12d730fc14",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "bibliography",
+  "created_at": "2025-01-14T15:55:25.301Z",
+  "created_by": "clafouch",
+  "updated_at": "2025-03-22T17:38:34.235Z",
+  "updated_by": "clafouch"
+}
