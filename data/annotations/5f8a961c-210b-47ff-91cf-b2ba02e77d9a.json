@@ -1,5 +1,1476 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 27,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits over a mournful jazz song which is diegetic to the film, playing out of a small, desktop radio"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Sound)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "bb8cc723-7726-4759-b57a-f5b4d8a8fc98"
+    },
+    {
+      "start_time": 191,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo begins to hear African drumming, but it's unclear if the sound is diegetic or not, as he looks directly at the radio. It becomes diegetic as he flashes back to a memory of dancing in Africa. The song is not entirely synchronized with the image during the dance sequence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Sound)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "c9edb38d-7b82-485d-9bca-1017c9b99f72"
+    },
+    {
+      "start_time": 372,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The drumming stops"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Sound)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "aeae8d33-c8c7-47e3-a326-91b5993ab03d"
+    },
+    {
+      "start_time": 418,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Knocking at the door announces Beck's arrival"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Sound)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "6c14e8fb-2f9d-4204-a928-1c970682e6c4"
+    },
+    {
+      "start_time": 545,
+      "end_time": 560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "African drumming can be heard again, which continues over the end title"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Sound)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "7cfd9f03-9f7d-4a54-a603-214e580a248b"
+    },
+    {
+      "start_time": 27,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Credits"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "9aafaba6-058c-4c5a-a2c2-363244cac748"
+    },
+    {
+      "start_time": 83,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo shown studying alone in a small boardhouse or hotel in an unnamed Francophone European city, presumably Paris."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "c87e3c58-133e-4724-8ec8-91b9be5c6226"
+    },
+    {
+      "start_time": 207,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Flashback to unnamed sub-Saharan African country with a group of drummers and singers, where Kodjo is shown dancing with a young woman."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "eef82398-830b-41cd-939d-60ed08ebb629"
+    },
+    {
+      "start_time": 374,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo is shown again in his room and attempts to dance as in the flashback, not managing to do so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "f7a8b8c5-e671-435a-a3b7-1438ed68d26d"
+    },
+    {
+      "start_time": 421,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beck enters holding vinyl records, which Kodjo and she discuss before settling on listening to Beethoven."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "dbe7eac4-52ca-45d1-b6de-95dc13dedcab"
+    },
+    {
+      "start_time": 551,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "End title"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Scenes (Image)",
+          "category": "Scenes"
+        }
+      ],
+      "uuid": "484ebe86-b21c-40a6-bf4a-6d2d4d53f17f"
+    },
+    {
+      "start_time": 69,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“AVERTISSEMENT : C’est à dessein que je n’ai pas voulu situer l’action de la deuxième partie dans une région bien déterminée de l’Afrique Noir. Paris 28 février 1955”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "2b93659f-9c78-4fef-b4ff-fc07ac8766cc"
+    },
+    {
+      "start_time": 415,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"C'était il y a quatre ans déjà\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "1fc67aee-b59e-4f09-9b7d-c95ab4ef605d"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Entrez\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "d0ea8a89-def9-401b-98ad-859066e4de85"
+    },
+    {
+      "start_time": 429,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Non non arrête Kodjo, tu vas faire casser les disques\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "f3d061af-c2cc-43af-945b-7d02539f35c3"
+    },
+    {
+      "start_time": 433,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bonsoir Kodjo\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "8a40acd8-48a6-41e3-988d-7bb83b13007e"
+    },
+    {
+      "start_time": 437,
+      "end_time": 438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bonsoir Beck\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "94726307-97f4-420c-8683-f243d58dbe07"
+    },
+    {
+      "start_time": 462,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Je ne te dérange pas trop ?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "b354ccfb-6b58-4f65-90d1-c3e4b9f26c4a"
+    },
+    {
+      "start_time": 464,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Non\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "27242b78-4d1f-47ff-b5ba-b0c406a32919"
+    },
+    {
+      "start_time": 466,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"N'est-ce pas jour de concert aujourd'hui?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "994c9ca4-975b-4440-9435-748bddadb4c9"
+    },
+    {
+      "start_time": 476,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Par quoi veux-tu que je commence ? Ravel ? Debussy ? Mozart ?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "7837ed9b-faaa-4c02-8eea-318522dcb324"
+    },
+    {
+      "start_time": 484,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Ce que tu veux\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "f42e00c1-79df-4343-99bf-773069bb1d0e"
+    },
+    {
+      "start_time": 488,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Bien, ce soir je vais te faire entendre la quatrième symphonie de Beethoven\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dialogues Français",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "82f4e3fe-6a19-4bf4-8578-ac55e924962b"
+    },
+    {
+      "start_time": 69,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Warning: it was my intention to not set the action of the second part in a specific region of Black Africa. Paris February 28th, 1955.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "ec6f37a1-ddbc-49aa-9e62-c3d0b8e826d0"
+    },
+    {
+      "start_time": 415,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Four years ago already\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "6f0646c4-a1d2-4ef6-8344-4f393ba467d1"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Come in\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "eab00efc-8d23-4be5-8df3-c59d6ed7162d"
+    },
+    {
+      "start_time": 429,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No no stop it, Kodjo. You're gonna break the records\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "b3ffc5fe-d94c-48a6-9416-bac158311546"
+    },
+    {
+      "start_time": 433,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Good evening, Kodjo\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "9b418efe-d95f-4fff-a62e-e7318fc27160"
+    },
+    {
+      "start_time": 437,
+      "end_time": 438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Good evening, Beck\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "11c0b762-6086-4559-bdef-4cf13d10693a"
+    },
+    {
+      "start_time": 462,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I'm not bothering you too much?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "2646e9e3-64f2-44fa-a298-c2861ef8e08f"
+    },
+    {
+      "start_time": 464,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "b028c792-5cf2-44e1-be91-7df84c3d7317"
+    },
+    {
+      "start_time": 466,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Isn't today concert day?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "dc3a062c-24b6-4212-8374-81c4785ddc33"
+    },
+    {
+      "start_time": 476,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"What do you want me to start with? Ravel? Debussy? Mozart?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "6fecb207-bb70-4b04-950b-b23d992e9200"
+    },
+    {
+      "start_time": 484,
+      "end_time": 485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Whatever you want\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "35eb94e0-dd7c-408c-8171-0d7ad75d58cb"
+    },
+    {
+      "start_time": 488,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Tonight I'm going to play Beethoven's fourth symphony for you.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "English Subtitles",
+          "category": "Dialogues"
+        }
+      ],
+      "uuid": "c48344c9-09d7-4535-b00a-e8075e459ff4"
+    },
+    {
+      "start_time": 84,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up shot showing two crocodile or alligator skins mounted on the wall as décor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "451fb96c-b1ed-43ac-963f-be2bbe7c65a1"
+    },
+    {
+      "start_time": 94,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium shot showing a statue of a head of an African woman on top of a low black bookcase. The camera slowly zooms in on the statue until it becomes a big close-up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "4d6c8cb0-f72a-4228-b35b-f216b7940c79"
+    },
+    {
+      "start_time": 128,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A small sink and washing-up area shown in a medium close-up, then the camera pans down to show pans on the floor alongside the sink."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "1ecdd15c-6c34-429b-b0a3-e713acc05d65"
+    },
+    {
+      "start_time": 137,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium close-up on Kodjo's feet under a desk, showing sandals and socks with toe hole"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "b24b49bd-2543-4469-82b0-193960d555ac"
+    },
+    {
+      "start_time": 148,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up on a book which Kodjo is reading (La crise de conscience européenne)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "04f6d14b-90cb-4b87-b12f-7a817c6a01a7"
+    },
+    {
+      "start_time": 162,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up on Kodjo's notes, reading \"La crise de conscience de l'Africain occidentalisé ??\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "e2a06f6c-ed75-49c2-b318-8d98089d9e31"
+    },
+    {
+      "start_time": 175,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lamp in the form of an African head in the mid-ground of medium close-up of Kodjo rolling a cigarette"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "f71d7d1a-933e-4084-b96c-72afb98ec809"
+    },
+    {
+      "start_time": 154,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La Crise de Conscience Européenne (1935), Paul Hazard (1878-1944), French critic, scholar, and historian. Hazard is most known for La Crise and the follow up La Pensée européenne au XVIIIème siècle, de Montesquieu à Lessing (1946), focusing on the intellectual history of the enlightenment (NYRB). The book seems to focus on the naissant conflict between Enlightenment values and their predecessors. \"One day, the French people, almost to a man, were thinking like Bossuet. The day after, they were thinking like Voltaire. No ordinary swing of the pedulum, that. It was a revolution\" (Hazard, XV). In the first chapter Hazard highlights the transformative effect that travel had on the beliefs of Europeans at this time: \"They arrived, these apostles from distant lands with their strange beliefs and customs, their laws, their own peculiar sense of values. They made a deep impression on a Europe only too eager to question them on their history and their religion\" (Hazard, 12). This continued contact via travel Hazard argues is the beginning of a revolution in the European understanding of not only European civilization, but civilization as a whole. \"The upshot of it all was that any man, however narrow and unimaginative, must have had it borne in upon him from his narrative that far away in distant Asia there were human beings in no way inferior to himself, however widely their mode of life might differ from his own. The notion of 'superiority' on which he had hitherto been brought up, as it were, was no longer valid. Henceforth he must think in other terms. 'Difference' not 'superiority' was the appropriate word; a striking psychological readjustment. Yes, in Persia everything is different... Now, these Persians are not barbarians\" (Hazard, 19). "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Info on Props",
+          "category": "Props"
+        }
+      ],
+      "uuid": "3dce81e5-20fb-458b-8cf3-5f63fe6b984c"
+    },
+    {
+      "start_time": 163,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La Crise de Conscience de L'Africain occidentalisé??\" draws a parallel between Hazard's work and possible works of Kodjo (or Vieyra). Rather than reorienting one's understanding of the world and foreigners from inferior to equal, perhaps Vieyra here is arguing for the reverse, that the approaching end of colonization demands a reevaluation of the self rather than foreigners in light of the end of a system which cast the colonized as inferiors. Vieyra here may be hinting here the need for a revolution in thought just akin to how the Enlightenment revolutionized European thought. Kodjo in some ways also parallels the travellers mentioned by Hazard, as a West African student presumably studying in France."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Info on Props",
+          "category": "Props"
+        }
+      ],
+      "uuid": "3bcf41d8-b844-42da-a320-9c1cc94a69fd"
+    },
+    {
+      "start_time": 177,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium shot of Kodjo with a radio facing him in the foreground on the left of the shot and the lamp in the form of an African woman facing him on the right of the shot. Kodjo is shown filling his pipe with tobacco and holding it to his mouth"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "83ac7829-2058-4cc5-b5fc-1d3dca8d34b9"
+    },
+    {
+      "start_time": 279,
+      "end_time": 280,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium close-up on Kodjo's bare, dancing feet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "11fa10ae-1a09-4d3c-b9b5-2844b4a09e33"
+    },
+    {
+      "start_time": 283,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up of drum being played"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "42209c2a-847a-4992-81f3-9ee33a3898e5"
+    },
+    {
+      "start_time": 298,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium close-up on Kodjo's bare, dancing feet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "293c6b8d-1416-46bb-a4ca-c4ecb1fd327e"
+    },
+    {
+      "start_time": 300,
+      "end_time": 18090,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up of drum being played"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "692d8a01-40b1-47ce-bf23-ebda9f73ceec"
+    },
+    {
+      "start_time": 303,
+      "end_time": 304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medium close-up on the woman's bare, dancing feet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "a118c5b2-42d0-4aee-ab92-b82367a878a9"
+    },
+    {
+      "start_time": 362,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Close-up of drum being played"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "d0449e02-8c7c-482b-b013-bb2e2234c8e6"
+    },
+    {
+      "start_time": 401,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In a medium long shot of Kodjo trying to dance and sing, the camera pans down to show his socked foot having fallen outside of his sandal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "1488b64c-6457-4280-a832-1b369237d8f1"
+    },
+    {
+      "start_time": 468,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beck is shown in a medium shot opening the record player, flipping through records, and putting one on"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "ff49961e-755e-4925-9132-a214771c2419"
+    },
+    {
+      "start_time": 511,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beck tugs on Kodjo's sock with a hole in it before joining him on the bed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Props"
+        }
+      ],
+      "uuid": "9c0af2bc-c9b0-468f-9304-887b4c95a2a1"
+    },
+    {
+      "start_time": 203,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo goes in and out of focus to signal transition to flashback of Africa, after hearing the drumming"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        }
+      ],
+      "uuid": "10f923ab-83cd-4a52-a284-6af07e49272a"
+    },
+    {
+      "start_time": 370,
+      "end_time": 376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo goes in and out of focus coming back to his room in Paris"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        }
+      ],
+      "uuid": "21376359-88ad-4f8b-87a3-0c75c718e97c"
+    },
+    {
+      "start_time": 542,
+      "end_time": 552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo goes in and out of focus as he begins to hear the drumming again rather than Beethoven's 4th Symphony"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        }
+      ],
+      "uuid": "a7733a7f-d11f-48ad-97fd-cd5652f93f38"
+    },
+    {
+      "start_time": 430,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The composition of the shot of Beck entering mirrors the style of French films from the inter-war and wartime period, as can be seen in this similar frame from the 1933 film La tête d'un homme (cinematographer Armand Thirard), as well as the additional provided frame from Le corbeau (1943, cinematographer Nicolas Hayer). This demonstrates a significant French influence on Vieyra's filmmaking style within this film itself, a graduation film for his diploma from IDHEC. https://drive.google.com/file/d/1O13-axSKdDsGYT7CB6ySv3Ny8Dy_1PCU/preview"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        }
+      ],
+      "uuid": "efd10560-8b20-471c-9fa7-9f158f2823aa"
+    },
+    {
+      "start_time": 420,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "https://drive.google.com/file/d/1HyoMKeX7SqtwMkW-ywjCpGKWzJ7LcyIq/preview"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        }
+      ],
+      "uuid": "59083883-f68a-4946-b560-423671bfd2b3"
+    },
+    {
+      "start_time": 150,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This close-up on Vieyra's notes seems to resemble a similar shot from Panique (1946, cinematographer Nicolas Kayer), again highlighting the aesthetic tradition of Vieyra's training. https://drive.google.com/file/d/1mXAvngiogOL5mZkvmuvTT4e1AuWt27K8/preview"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Filmic element",
+          "category": "Filmic Element"
+        }
+      ],
+      "uuid": "ffd20f7a-53d7-4434-a150-0b48781b7845"
+    },
+    {
+      "start_time": 191,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Kodjo begins hearing the African drumming, he is physically in the space of his presumably French room. Because the sound of the drumming precedes the flashback of the sequence taking place four years previously in West Africa, this implies a separation between Kodjo's physical situation in the space of Europe and his internal relationship to place. In looking at the radio prior to the image changing to show the flashback itself, Kodjo cements his experience of this mental space as physical: living two spaces at once, one sub-Saharan African and one European."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "a859ba02-4809-42bc-9c80-f026ea3cb864"
+    },
+    {
+      "start_time": 462,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kodjo's statement, \"N'est-ce pas jour de concert aujourd'hui?\" implies that the two have an arragement or a habit of listening to records together, coming together to experience music with each other. This kind of relationship between the two characters of the film demonstrates precisely the kind of between-two opened on the ground of differing groups in the colonial encounter. Not much other information is given or connoted by their actions together, making it hard to see the specific relationship dynamic between the two, though it is important to consider the power dynamic at play, signified in part by the very classical, European-coded Beethoven record they listen to together. Nonetheless, within the framework of the 1950s, depicting two students of different races and origin cultures cuddled up on a bed together listening to music can be seen as a statement of the opening of a new kind of belonging through their cross-cultural relationship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "01085639-52f2-41b7-8c06-baff5846de9b"
+    },
+    {
+      "start_time": 545,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Kodjo and Beck begin to listen to Beethoven together, Kodjo is physically living a moment anchored in a profound Europeanness with foundational sounds of European musical culture playing from the record, curled up with a young European woman and situated tangibly within Europe. Regardless, his mind causes him the sensation of hearing the African drumming of his flashback once more, to the point of bobbing his head to this music rather than that of Beethoven: he is unable to fully embody this European physical environment because of his mental attachment to his lived experiences in Africa. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "f5f1c50d-d52a-4594-ac74-3fc496e90879"
+    },
+    {
+      "start_time": 401,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "After the flashback sequence, Kodjo attempts to make tangible his internal belonging to African space through dance. However, he is dressed in Western-style clothing, including socks with sandals. The sandals, in particular, trip him as he tries to externalize his mental space; this indicates the impossibility of blending these spaces, though they are existing alongside one another inevitably in Kodjo's life. Vieyra is able to construct this sense of cultural proximity yet separation through his use of mise-en-scène, which help to make concrete the internal struggle that Kodjo faces for the specifically European audience of his film. For example,  Vieyra's juxtaposition of the bare, dancing feet of the flashback sequence in Africa, this moment where his socked and sandaled feet constrain him, and Beck's tugging on his sock with a hole in it, combine to render visible the impossible task of living out either a wholly African or European present"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "dc2561c6-b9cb-41c7-abbc-5fc826aab88e"
+    },
+    {
+      "start_time": 421,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Another example of the rejection of Kodjo's attempts to embody the spirit of the flashback space is when he greets Beck. Following the flashback sequence, where Kodjo is dancing emphatically and in great physical proximity to a young African woman, Beck's arrival is Kodjo's next opportunity for human closeness. He picks Beck up and twirls her around, which she reprimands in the interest of protecting her records from damage. Rather than reflecting physical, human contact and proximity, Beck privileges retraint and deference: the safety of her records prevails over the warmth of Kodjo's embrace. Once she puts the records down, they merely rub noses, which does not quite match the original physicality of Kodjo's embrace. Even as they lay down together at the end of the film, indeed a moment of closeness, she joins him rather rigidly, laying next to him with little movement, punctuated by the classic, highly controlled sounds of the Beethoven record"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "dc029077-e25e-497c-bdbb-37d327d81693"
+    },
+    {
+      "start_time": 207,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The production of the flashback sequence that the introductory note situates in a non-descript location of sub-Saharan Africa is a mise-en-abîme of the larger impossibility of producing an entirely African space from abroad that runs through this film. Because it was not feasible (in terms of budget, time, or legality, per the Laval Decree still in force) to actually film this sequence in Africa, the flashback is filmed on a soundstage that approximates the character's African homeland. In a technical sense, as well, this impossibility is highlighted by the issue of synchronizing the sound with the image of the sequence, as the drumming and singing heard does not correspond with the movements of the African characters shown. In trying to represent this marking moment of Africanness for Kodjo, Vieyra is blocked through technical limitations and colonial ones, despite his apparent original concept of making the African sequence even sound as if it were actually outside, contrasting with the other, indoor sequences' sound, according to notes preserved in the Vieyra archives at Indiana University's Black Film Center & Archive. All of this is besides the fact that the pan-African positioning of the film would likely be most convincing to its European main audience, generally unable to recognize or understand the precise provenance of the singing or dancing depicted in this sequence. This underscores that the kinds of African and European identities represented in the film exist in relation to one another rather than in fixity among the depiction of intersecting, patchwork space through the film more generally"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "c400c7c2-9854-498d-8944-8253f6ce1de0"
+    },
+    {
+      "start_time": 86,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What appear to be the skins of small crocodiles are shown mounted on the wall against the white wallpaper with a flower motif. There are several African-signifying elements of mise-en-scène in his bedroom that stand out to a Western viewer of this film, like these skins, in addition to a statue and a lamp showing Black figures. Within the world of the film, Kodjo's decoration of the room is the manifestation of a patchwork environment, including objects that render visible an Africanness within a European space more largely with them necessarily blending but existing alongside one another. By including these elements of the decor, it is one way that Vieyra suggests Kodjo's ties to Africa and make legible his partial sense of cultural distance from his receiving country for the primarily European audience. In other words, Vieyra uses the physical juxtaposition of European and African-coded elements to mirror an internal disposition of patchworking, wherein elements of European culture exist alongside African culture for Kodjo, leading to the \"crise de conscience de l'African occidentalisé??\" that Kodjo references in his school notes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "a83c2a57-a7e8-4052-a891-6db4b09e4ef6"
+    },
+    {
+      "start_time": 410,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zoom, camera movement, and varied depth of field are used throughout the film to demonstrate the disconnect of Kodjo from the world around him and likely his internal experience related to living between two cultural worlds. Here, zoom is first used to capture Kodjo in close-up in a state of complete nostalgia, before bringing the world around him back into focus, and Kodjo out of focus, as Beck enters the room. Kodjo is in the room, although zoom demonstrates that he is not truly present. As the camera zooms on Kodjo in his nostalgia, it is possible that the loss of focus is not intentional; however, when Kodjo first hears the drums of his flashback, he teeters in and out of focus as well, stylistically signaling the passage from one area of his internal 'patchwork' to the next"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "62d08517-6d42-4662-8aba-e9ba450f13d3"
+    },
+    {
+      "start_time": 488,
+      "end_time": 506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, camera movement and depth of field are used again, although this time in conjunction with props. Beck is shown in the foreground with her records and player in complete focus. In contrast, the background remains out of focus and contains Kodjo alongside several symbols pointing towards him being African (including the animal skins and the sculpture), creating for the viewer a physical manifestation of this patchwork space, where Beck and Kodjo exist together alongside Beethoven and African-signifying decor. Indeed, as the camera tracks and pans to follow Beck approaching Kodjo to lay down with him, the camera noticeably moves upward to include the African statue in the first shot of them in bed together, foreshadowing the continued African aspect internal to Kodjo as the European tenor of the space heightens with the music"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "1f72cdde-941e-495b-876a-a290dead8508"
+    },
+    {
+      "start_time": 420,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Between the resonances in Vieyra's style in this film with those of other French cinematographers in the 1930s and 1940s, his work itself demonstrates the patchwork created by colonization: Vieyra, an African person, utilizes similar aesthetic features to those even present in films considered collaborationist (Le Corbeau) to construct a statement on the transformation of spaces as an impact of colonialism, including its internal, affective consequences. In this way, he reworks these aesthetics by introducing their use for the representation of the subjectivity of an African individual, articulating them in a new way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Analysis",
+          "category": "Analysis"
+        }
+      ],
+      "uuid": "e7049623-993d-41b3-ac05-7a3c3af59be3"
+    }
+  ],
   "set": "Default",
   "event_id": "9c2903be-1558-4450-b00a-3272bce03d03",
   "source_id": "9047eba3-d048-47a4-a8dd-daf1ea210f70"
